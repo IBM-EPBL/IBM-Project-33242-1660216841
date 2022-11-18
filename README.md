@@ -1,16 +1,16 @@
-<h1 strong> IBM-Project-33242-1660216841 </h1>
+<h1> IBM-Project-33242-1660216841 </h1>
 Plasma Donor Application
 
 <h2>TEAM MEMBERS:</h2>
 
-AMARNATH D<br>
+AMARNATH D - Leader<br>
 DINESH KUMAR M<br>
 MAHADEVAN V<br>
 MOHAMMED ASHIK S<br>
 
 <h2>Plasma Donor Application</h2>
 
-<img src="https://user-images.githubusercontent.com/112843167/195245288-da076b82-01ed-46f6-b457-a655901851e4.png" width="800" height="350"/>
+<img src="https://user-images.githubusercontent.com/112843167/195245288-da076b82-01ed-46f6-b457-a655901851e4.png" width="1000" height="500"/>
 
 Plasma is the liquid portion of blood. About 55% of our blood is plasma, and the remaining 45% are red blood cells, white blood cells and platelets that are suspended in the plasma.Plasma is about 92% water. It also contains 7% vital proteins such as albumin, gamma globulin and anti-hemophilic factor, and 1% mineral salts, sugars, fats, hormones and vitamins.
 
